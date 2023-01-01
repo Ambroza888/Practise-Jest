@@ -28,7 +28,7 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "@nrwl/express": "^9.5.1",
+    "@nrwl/express": "^9.8.0",
     "@nrwl/workspace": "9.5.1",
     "@types/node": "~8.9.4",
     "dotenv": "6.2.0",
